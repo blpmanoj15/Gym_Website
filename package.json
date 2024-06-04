@@ -1,0 +1,15 @@
+{
+  "name": "wccd",
+  "version": "1.0.0",
+  "description": "this is a package we created while studying and exploring node and express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MAnoj_Srivastava",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pug": "^3.0.2"
+  }
+}
